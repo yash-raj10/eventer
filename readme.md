@@ -5,7 +5,7 @@
 Eventer offers event organizers a one-stop-shop to find the best local vendors in their area for food, printing, and other services at competitive prices. Here, Clients can work together with the Event Organisers in a cohesive Manner.
 </p>
 
-![New LOGO ](https://github.com/hamees-sayed/internhunt/blob/main/client/src/Components/img/yo2/screely-1681547690546.png)
+
 
 
 # Features
